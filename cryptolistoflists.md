@@ -12,19 +12,19 @@
 
 12 Dec 2017 | **[Below is a list of cryptocurrency traders, experts, investors, and journalist to follow on Twitter]()** | tokens24.com 
 
-### Reading Lists
+## Reading Lists
 
-**26 Jan 2018** 	EthList: The Crowdsourced Ethereum Reading List (github.com) Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous
-NB: Quite comprehensive. Continually updated. 
+26 Jan 2018	| EthList: The Crowdsourced Ethereum Reading List | Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous | github.com
+- *NB: Quite comprehensive. Continually updated.*
 
-**13 Jan 2018**	Awesome Blockchains (github.com) Openblockchains
+13 Jan 2018 |	Awesome Blockchains | Openblockchains | github.com 
 
-**03 Dec 2017**	Digital currency reading list, December 2017 (medium.com) Dan Romero
+03 Dec 2017 |	Digital currency reading list, December 2017 | Dan Romero | medium.com 
 
-**26 Sep 2017**	Reading list on Cryptocurrencies like Bitcoin & Ethereum, Crypto tokens and Blockchain (github.com) Jatin Shah
+26 Sep 2017 |	Reading list on Cryptocurrencies like Bitcoin & Ethereum, Crypto tokens and Blockchain | Jatin Shah | github.com
 
-**20 Jul 2017**	Top 6 Bitcoin and Cryptocurrency Books to Check out This Summer (themerkle.com) JP Buntinx
+20 Jul 2017 |	Top 6 Bitcoin and Cryptocurrency Books to Check out This Summer | JP Buntinx | themerkle.com 
 
-**09 May 2017**	Some Blockchain Reading (medium.com) Nick Tomaino
+09 May 2017 | Some Blockchain Reading | Nick Tomaino | medium.com 
 
-**30 Nov 2016**	Very deep-dive on Ethereum Reading List (medium.com) ConsenSys
+30 Nov 2016 |	Very deep-dive on Ethereum Reading List | ConsenSys | medium.com 
