@@ -2,7 +2,7 @@
 
 ## Lists of People To Follow on Twitter
 
-###[Bitcoin and cryptocurrency on Twitter: The most important people to follow](https://www.marketwatch.com/story/bitcoin-and-cryptocurrency-on-twitter-the-most-important-people-to-follow-2017-12-04) 
+#### [Bitcoin and cryptocurrency on Twitter: The most important people to follow](https://www.marketwatch.com/story/bitcoin-and-cryptocurrency-on-twitter-the-most-important-people-to-follow-2017-12-04) 
 08 Jan 2018 \| Jessica Marmor Shaw \| marketwatch.com 
 
 07 Jan 2018 | **[people who will make you smarter than just saying buy this and that](https://twitter.com/search?q=twobitidiot%20realist&src=typd)** | Peter McCormack | twitter.com
