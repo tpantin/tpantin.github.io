@@ -100,25 +100,25 @@
 <!-- --> 
 <ul>
 <li>20 Jul 2017</li>
-<li>Top 6 Bitcoin and Cryptocurrency Books to Check out This Summer</li>
+<li><a href="https://themerkle.com/top-6-bitcoin-and-cryptocurrency-books-to-check-out-this-summer/">Top 6 Bitcoin and Cryptocurrency Books to Check out This Summer</a></li>
 <li>JP Buntinx (<a href="http://themerkle.com">themerkle.com</a>)</li>
 </ul>
 <!-- --> 
 <ul>
 <li>09 May 2017</li>
-<li>Some Blockchain Reading</li>
+<li><a href="https://thecontrol.co/some-blockchain-reading-1d98ec6b2f39">Some Blockchain Reading</a></li>
 <li>Nick Tomaino (<a href="http://medium.com">medium.com</a>)</li>
 </ul>
 <!-- --> 
 <ul>
 <li>Jan 2017</li>
-<li>Finance 898: Innovation and Cryptoventures</li>
+<li><a href="https://faculty.fuqua.duke.edu/~charvey/Teaching/898_2017/syl898.htm?utm_source=ActiveCampaign&amp;utm_medium=email&amp;utm_content=Your+Cryptocurrency+Learning+Resources&amp;utm_campaign=blockchain+resources">Finance 898: Innovation and Cryptoventures</a></li>
 <li>Campbell R. Harvey (<a href="http://duke.edu">duke.edu</a>)</li>
 </ul>
 <!-- --> 
 <ul>
 <li>30 Nov 2016</li>
-<li>Very deep-dive on Ethereum Reading List</li>
+<li><a href="https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990">Very deep-dive on Ethereum Reading List</a></li>
 <li>ConsenSys (<a href="http://medium.com">medium.com</a>)</li>
 </ul>
 <!-- --> 
