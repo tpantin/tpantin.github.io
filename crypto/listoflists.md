@@ -58,7 +58,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="list-of-crypto-reading-lists">List of Crypto Reading Lists</h1>
+  <div class="stackedit__html"><h1 id="list-of-crypto-reading-lists-2">List of Crypto Reading Lists 2</h1>
 <h2 id="reading-lists">Reading lists</h2>
 <ul>
 <li>Recently Updated</li>
