@@ -1,51 +1,57 @@
-ul {
-		list-style-type: none !important;
-		display: grid !important;
-		grid-template-columns: 6rem !important;
-		grid-column-gap: 10px !important;
-		grid-row-gap: 5px !important;
-		padding-left: 0em !important;
-		line-height: 1 !important;
-		}
-		
-		ul > blockquote {
-			margin: 0em !important;
-		}
-		
-		li+li {
-		    margin-top: 0em !important;
-		}
+/* Sandbox: https://codepen.io/anon/pen/BYZWWP?editors=1100 */
 
-		li:first-child{
-		    grid-column: 1 / 2 !important;
-		    grid-row: 1 / 6 !important;
-        font-family: monospace !important; 
-		}
-		li:nth-child(2){
-		    grid-column: 2 !important;
-		    grid-row: 1 !important;
-        font-family: Arial, Helvetica, sans-serif !important;
-		}
-		li:nth-child(3){
-		    grid-column: 2  !important;
-		    grid-row: 2  !important;
-        font-family: Arial, Helvetica, sans-serif !important;
-        font-size: small !important;
-        color: gray !important;
-		}
-    li:nth-child(n+4){
-      font-family: Arial, Helvetica, sans-serif !important;
-      font-size: small !important;
-    }
-		li:nth-child(4){
-		    grid-column: 2 !important;
-		    grid-row: 3 !important;
-		}
-		li:nth-child(5){
-		    grid-column: 2 !important;
-		    grid-row: 4 !important;
-		}
-		li:nth-child(6){
-		    grid-column: 2 !important;
-		    grid-row: 5 !important;
-		}
+ul {
+  list-style-type: none !important;
+  display: grid !important;
+  grid-template-columns: 8rem !important;
+  grid-column-gap: 10px !important;
+  grid-row-gap: 5px !important;
+  padding-left: 0em !important;
+  line-height: 1 !important;
+}
+
+ul > blockquote {
+  margin: 0em !important;
+}
+
+li + li {
+  margin-top: 0em !important;
+}
+
+li:first-child {
+  grid-column: 1 / 2 !important;
+  grid-row: 1 / 6 !important;
+  font-family: monospace !important;
+}
+li:nth-child(2) {
+  grid-column: 2 !important;
+  grid-row: 1 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+li:nth-child(3) {
+  grid-column: 2 !important;
+  grid-row: 2 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: small !important;
+  color: gray !important;
+}
+li:nth-child(n + 4) {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: small !important;
+}
+li:nth-child(4) {
+  grid-column: 2 !important;
+  grid-row: 3 !important;
+}
+li:nth-child(5) {
+  grid-column: 2 !important;
+  grid-row: 4 !important;
+}
+li:nth-child(6) {
+  grid-column: 2 !important;
+  grid-row: 5 !important;
+}
+
+li:nth-child(3) > a {
+  color: gray !important;
+}
