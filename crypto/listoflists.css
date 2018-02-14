@@ -12,6 +12,10 @@ li > blockquote {
   margin: 0em !important;
 }
 
+blockquote > p {
+  margin: 0em !important;
+}
+
 li + li {
   margin-top: 0em !important;
 }
