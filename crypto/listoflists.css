@@ -1,10 +1,43 @@
+h1,
+h1 ~ *,
+h2 ~ h1,
+h2 ~ h1 ~ *,
+h3 ~ h1,
+h3 ~ h1 ~ * {
+    margin-left: 0rem;
+}
+
+
+h2,
+h2 ~ *,
+h1 ~ h2,
+h1 ~ h2 ~ *:not(h1):not(h3) {
+    margin-left: 1rem;
+}
+
+h3,
+h3 ~ *,
+h1 ~ h3,
+h1 ~ h3 ~ *:not(h1):not(h2) {
+    margin-left: 1rem;
+}
+
+li:nth-child(2):before{
+    content: "•";
+    position: relative;
+    float: left;
+    margin: 0 -1rem 0 0;
+    left: -1rem;
+}
+
+
 ul {
   list-style-type: none !important;
   display: grid !important;
   /*   grid-template-columns: 6rem !important; */
   grid-column-gap: 1.5rem !important;
   grid-row-gap: 5px !important;
-  padding-left: 0em !important;
+  padding-left: 1em !important;
   line-height: 1.2 !important;
 }
 
@@ -39,8 +72,8 @@ li:nth-child(3) {
   grid-column: 1 !important;
   grid-row: 2 !important;
   font-family: Arial, Helvetica, sans-serif !important;
-  font-size: .6rem !important;
-  color: #828282 !important; /* gray color */
+  font-size: .8rem !important;
+  color: #828282b3 !important; /* gray color */
 }
 li:nth-child(4) {
   grid-column: 1 !important;
