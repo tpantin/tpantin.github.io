@@ -41,9 +41,10 @@ ul {
   display: grid !important;
   /*   grid-template-columns: 6rem !important; */
   grid-column-gap: 1.5rem !important;
-  grid-row-gap: 5px !important;
+ /* grid-row-gap: 5px !important; */
   padding-left: 1em !important;
   line-height: 1.2 !important;
+  margin: 1em 0em 0em 1em !important;
 }
 
 li > blockquote {
