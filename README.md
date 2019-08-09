@@ -1,1 +1,1 @@
-Personal site for Travis Pantin. More at www.travispantin.com.
+Personal site for Travis Pantin. At www.travispantin.com.
